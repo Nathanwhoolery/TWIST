@@ -1,12 +1,14 @@
 # TWIST Web Project
 
+Nathan Whoolery's cloned TWIST project.
+
+
 This Github repository will contain all of the files necessary to build/run the TWIST website including both the database and the user interface.
 
 
 
 ## Running the Project Locally
 
-I would highly recommend downloading or cloning the files to your computer to work on with the code editor Visual Studio Code(VS Code).  
 
 Here is what you will need to do:
 
